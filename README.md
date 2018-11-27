@@ -1,1 +1,7 @@
 # CareerFair-PHP-Website
+
+#Introduction:
+The project is aimed at developing an application for the career services of Illinois Institute of Technology, Chicago. This application can be also referred to as a website and that can be accessed throughout the university with proper login credentials provided. Also, this website allows the career services of the university to manage the student information with regards to placements.
+Fundamental thing is all the student data is gathered and warehoused into a central repository and it can be accessed to generate recommendation of jobs for the candidates by many companies.
+This career services portal is not only accessed by students but also can be accessed by the faculty members, the administrator and the career services itself and further we will be discussing more about these users and their different activities and functionalities.
+The most important thing here is warehousing of student data, not considering the least important information like age, gender etc. but focusing on the crucial information like student GPA, Grades, previous educational background and many more and this information will be used by the company which will first register itself at the career services at IIT, Chicago and will set a minimum criteria which will be a threshold and will act as a filtering criteria to filter out the eligible students only. We will also discuss on what basis we (the company) have maintained some criteria.
